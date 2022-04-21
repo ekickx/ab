@@ -153,4 +153,4 @@ fi
   info "Installing ${GREEN}${PM_NAME}${RESET}..."
   rm -rf $PM_DIR
   clone_repo $SRC $PM_DIR
-  success "Successfully installed ${GREEN}${PM_NAME}${RESET} to ${GREEN}${PACKAGE_DIR}/${BOLD}${DIST}"
+  success "Successfully installed ${GREEN}${PM_NAME}${RESET}"
