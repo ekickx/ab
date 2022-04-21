@@ -1,0 +1,19 @@
+{
+  "name": "install-nvim-pm",
+  "version": "0.1.0",
+  "description": "One-liner script to install various neovim plugin managers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nvim",
+    "neovim",
+    "plugin_manager"
+  ],
+  "author": "Ekickx",
+  "license": "MIT",
+  "devDependencies": {
+    "now": "^21.0.1"
+  }
+}
