@@ -26,5 +26,5 @@ Have you ever want to try another neovim plugin manager but it's a hassle to cre
 That's also want I experienced. Now I can just place this script in `$PATH` and do this to my neovim config:
 
 ```lua
-vim.fn.system { "install-nvim-pm", "-y", "-f", "dep" }
+vim.fn.system { "install-nvim-pm", "-y", "dep" }
 ```
